@@ -1,0 +1,53 @@
+# =========================
+# Power BI
+# =========================
+
+# Arquivos temporários e de cache do Power BI
+*.pbi
+*.pbix.tmp
+*.pbix.lock
+
+# Arquivos de log
+*.log
+
+# =========================
+# Sistema Operacional
+# =========================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# =========================
+# Backup e arquivos temporários
+# =========================
+
+*~
+*.bak
+*.tmp
+*.temp
+
+# =========================
+# Excel temporários
+# =========================
+
+~$*.xls
+~$*.xlsx
+
+# =========================
+# Pastas comuns de ambiente
+# =========================
+
+__pycache__/
+.env
+.env.*
+
+# =========================
+# IDEs / Editores
+# =========================
+
+.vscode/
+.idea/
