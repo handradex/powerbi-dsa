@@ -51,7 +51,3 @@ Criar um dashboard interativo que permita analisar o desempenho de vendas globai
 
 - Curso Gratuito de Microsoft Power BI Para Business Intelligence e Data Science – Data Science Academy
   https://www.datascienceacademy.com.br
-
-```
-
-```
