@@ -1,43 +1,51 @@
-# Mini Projeto 1
+# Mini Projeto 1 – Dashboard para Área de Marketing
 
-## Dashboard Para área de Marketing.
+## Contexto
 
-### Contexto
+Projeto desenvolvido durante o curso de Power BI da Data Science Academy, com o objetivo de praticar a importação de dados em formato CSV e a construção de um dashboard analítico para apoio à tomada de decisão na área de marketing.
 
-Projeto desenvolvido durante o curso de Power BI da Data Science Academy com o objetivo de praticar a importação de dados em formato CSV e a construção de um dashboard analítico para apoiar decisões de negócio.
+## Objetivo
 
-### Objetivo
+Desenvolver um dashboard interativo com foco na análise de indicadores de marketing, explorando diferentes visões do negócio por meio de boas práticas de visualização de dados.
 
-Crie um dashboard com gráficos explorando alguns indicadores da área de marketing.
+## Funcionalidades do Dashboard
 
-### Funcionalidades do Dashboard
+- Análise de clientes
+- Avaliação do comportamento de consumo
+- Monitoramento de campanhas de marketing
+- Análise por ponto de venda
+- Navegação por abas para diferentes perspectivas analíticas
 
-### Aprendizados
+## Principais Aprendizados
 
-- Criação de abas no power bi e aprender a usar os gráficos de dispersão e árvore hierárquica, álem de melhorar os gráficos de colunas e linhas.
+- Criação e organização de abas no Power BI
+- Utilização de gráficos de dispersão e árvore hierárquica
+- Aprimoramento do uso de gráficos de colunas e linhas
+- Melhoria no layout e na organização visual do dashboard
 
-### Preview do Dashboard
+## Preview do Dashboard
 
-#### **Visão Cliente**
+### **Visão Cliente**
 
 ![Dashboard](./imagens/visao-cliente.png)
 
-#### **Visão Compotamento**
+### **Visão Comportamento**
 
 ![Dashboard](./imagens/visao-comportamento.png)
 
-#### **Visão Campanhas**
+### **Visão Campanhas**
 
 ![Dashboard](./imagens/visao-campanhas.png)
 
-#### **Visão Ponto de Venda**
+### **Visão Ponto de Venda**
 
 ![Dashboard](./imagens/visao-ponto-de-venda.png)
 
-### Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
-├── Clientes.csv                # Dataset dados de marketing em CSV
+├── imagens/                    # Diretório com os prints dos gráficos
+├── dados_marketing.csv         # Dataset dados de marketing em CSV
 ├── mini-projeto1.pbix          # Relatório desenvolvido no Power BI
 ├── print-dashboard-cap04.png   # Preview do dashboard
 └── README.md                   # Documentação do projeto
