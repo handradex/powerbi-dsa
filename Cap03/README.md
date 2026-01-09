@@ -8,7 +8,7 @@ Projeto desenvolvido durante o curso de Power BI da Data Science Academy com o o
 
 ### Objetivo
 
-Criar um dashboard interativo que permita analisar o desempenho de vendas de uma empresa usando diferentes bases de dados (3 arquivos CSV diferentes) Clientes, Produtos e Pedidos. A partir deles trazer informações importantes sobre o negócio.
+Criar um dashboard interativo que permita analisar o desempenho de vendas de uma empresa usando diferentes bases de dados (4 arquivos CSV diferentes) Clientes, Produtos, Pedidos e Vendas. A partir deles trazer informações importantes sobre o negócio.
 
 ### Perguntas de Negócio Respondidas
 
@@ -37,6 +37,7 @@ Criar um dashboard interativo que permita analisar o desempenho de vendas de uma
 ├── Clientes.csv                # Dataset de clientes em CSV
 ├── Pedidos.csv                 # Dataset de pedidos em CSV
 ├── Produtos.csv                # Dataset de produtos em CSV
+├── Vendas.csv                  # Dataset de vendas em CSV
 ├── Lab2.pbix                   # Relatório desenvolvido no Power BI
 ├── print-dashboard-cap03.png   # Preview do dashboard
 └── README.md                   # Documentação do projeto
